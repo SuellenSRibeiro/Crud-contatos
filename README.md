@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Contatos Virtual
 
-Este é um sistema de gerenciamento de contatos desenvolvido em C# com ASP.NET Core. O sistema permite que os usuários criem, visualizem, atualizem e excluam contatos. Além disso, possui recursos de autenticação, controle de acesso e envio de emails.
+Este é um sistema de gerenciamento de contatos desenvolvido em C# com ASP.NET Core. O sistema permite que os usuários criem, visualizem, atualizem e excluam contatos. Além disso, possui recursos de autenticação, com controle de acesso e envio de emails.
 
 ## Funcionalidades
 #### Cadastro de contatos com nome, email e celular.
